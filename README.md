@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Yutao's github stats](https://github-readme-stats.vercel.app/api?username=yutaodou&show_icons=true&theme=tokyonight&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutaodou)]()
+
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yutaodou&repo=yutaodou)](https://github.com/yutaodou/yutaodou) -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
